@@ -1,7 +1,7 @@
 # Neural Networks and Deep Learning
 Exercises of Neural Networks and Deep Learning course in Python
 
-## Homework 1
+### Homework 1
 In this homework we will implement and test simple neural network models for solving supervised problems. Firstly,
 we will consider a regression task that consists in a simple function approximation problem and we will use a deep
 feed-forward neural network. Secondly, we will consider a classification task that consists in a simple image
@@ -10,7 +10,7 @@ a convolutional neural network. In particular, advanced optimizers and regulariz
 and learning hyperparametwrs will be tuned using appropriate search procedures.
 These models are implemented in Python using the PyTorch framework.
 
-## Homework 2
+### Homework 2
 In this homework we will implement and test simple neural network models for solving unsupervised problems,
 where the network is asked to learn an internal representation of the environment that can be later exploited for
 other learning porpouses. Firstly, we will test and analyze a convolutional autoencoder over a dataset of images of
@@ -22,7 +22,7 @@ space structure and generate new samples from latent codes. Finally, we implemen
 are analogous model based on a probabilistic approach.
 These models are implemented in Python using the PyTorch framework.
 
-## Homework 3
+### Homework 3
 In this homework we will implement and test neural network models for solving reinforcement learning problems,
 where intelligent agents have to take actions in an environment in order to maximize the notion of cumulative reward.
 In particular we consider Deep Q-learning where a Q-value function determines how good a certain action is, given
